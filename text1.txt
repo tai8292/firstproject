@@ -1,2 +1,10 @@
 1111
+lay source ; pull fetch
+sua code : tao branch moi
+checkout :chuyen branch
+checkout -b <ten branch> : tao branch
+git add : thong bao dua file vao lan commit tiep thep
+git commit : 
+git push origin <ten branch> 
+git reset
 
