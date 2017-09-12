@@ -7,4 +7,5 @@ git add : thong bao dua file vao lan commit tiep thep
 git commit : 
 git push origin <ten branch> 
 git reset
-
+git reset --soft HEAD^     # use --soft if you want to keep your changes
+git reset --hard HEAD^     # use --hard if you don't care about keeping the changes you made
