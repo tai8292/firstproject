@@ -10,3 +10,5 @@ eliminate: loai bo
 immense: rong lon,bao la
 guidelines : huong dan
 aim : muc dich
+underlie : nen tang,co ban
+mechanismL co che,cach cau tao
