@@ -12,3 +12,4 @@ guidelines : huong dan
 aim : muc dich
 underlie : nen tang,co ban
 mechanism: co che,cach cau tao
+consistent : thich hop 
