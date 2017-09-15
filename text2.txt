@@ -27,6 +27,7 @@ fetch
 
 pull
 
-fetch_stt
-
+fetch_s
 master_rabase
+
+tantai_rebase
