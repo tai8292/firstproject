@@ -38,6 +38,6 @@ revert
 commit 1
 
 commit 2
-
-
-abcabcabc
+=======
+revert
+>>>>>>> parent of d6313a3... revert commit
