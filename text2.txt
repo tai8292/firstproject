@@ -28,3 +28,5 @@ fetch
 pull
 
 fetch_stt
+
+master_rabase
