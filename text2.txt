@@ -21,4 +21,27 @@ tai
 
 master
 
+<<<<<<< HEAD
 master 2
+=======
+
+fetch
+
+
+pull
+
+fetch_s
+master_rabase
+
+tantai_rebase
+
+<<<<<<< HEAD
+revert
+
+commit 1
+
+commit 2
+=======
+revert
+>>>>>>> parent of d6313a3... revert commit
+>>>>>>> 48871a96372280c8b9cfaa3a951267027e57b080
