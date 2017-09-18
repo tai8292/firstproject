@@ -15,3 +15,5 @@ mechanism: co che,cach cau tao
 consistent : thich hop 
 mechanism : co che
 centralizing : tap trung ,qui ve 1 cho
+facilitate : tao dieu kien,lam cho de dang
+appropriate: thich hop
